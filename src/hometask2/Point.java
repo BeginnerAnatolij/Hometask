@@ -1,4 +1,4 @@
-package tms.by.lesson2;
+package hometask2;
 
 public class Point {
     private double x;

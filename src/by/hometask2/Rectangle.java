@@ -1,4 +1,4 @@
-package by.tms.hometask2;
+package by.hometask2;
 
 public class Rectangle {
     public Point leftTop;
@@ -15,7 +15,7 @@ public class Rectangle {
     }
 
     public Rectangle() {
-        System.out.println("Конструктор без параметров");
+        System.out.println("Вызывается конструктор без параметров");
     }
 
     public double square() {

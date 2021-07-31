@@ -1,4 +1,4 @@
-package by.tms.hometask2;
+package by.hometask2;
 
 public class Main {
     public static void main(String[] args) {

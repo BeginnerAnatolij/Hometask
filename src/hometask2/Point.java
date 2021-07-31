@@ -1,4 +1,4 @@
-package by.hometask2;
+package hometask2;
 
 public class Point {
     private double x;

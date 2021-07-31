@@ -1,4 +1,6 @@
-package hometask2;
+package tms.by.lesson2;
+
+import tms.by.lesson2.Point;
 
 public class Rectangle {
     public Point leftTop;

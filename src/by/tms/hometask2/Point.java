@@ -1,4 +1,4 @@
-package by.tms;
+package by.tms.hometask2;
 
 public class Point {
     private double x;
